@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irhad Radaca</h1>
-<h3 align="center">A passionate front-end developer from Bosnia and Herzegovina</h3>
+<h3 align="center">A passionate web developer from Bosnia and Herzegovina</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, HTML5, CSS**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **radacairhad99@gmail.com**
 
