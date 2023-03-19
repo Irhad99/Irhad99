@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & Redux**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **radacairhad99@gmail.com**
 
